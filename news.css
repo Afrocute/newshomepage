@@ -1,0 +1,50 @@
+.h1{
+    font: size 50px;
+}
+#left{
+    float:left;
+    text-align:left;
+    padding-right:10px;
+}
+#center{
+    text-align:center;
+}
+#right{
+    float:right;
+    text-align:right;
+    padding: left 0;px;
+}
+img.a{
+    vertical-align: baseline;
+    image-resolution:50px ;
+    float: inline-start;
+
+}
+.boxed{
+    border: 520px black; 
+    width:320;
+    margin:50px black;
+    padding-left:600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ul{
+    vertical-align: text-top;
+    position: relative;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: inline-start;
+    font-size: 15px;
+    list-style-image: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
+li{
+    float:right;
+    padding: 10px 12px;
+}
+.nobull {
+    list-style: none;
+}
+img{
+    margin-top: auto;
+}
